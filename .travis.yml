@@ -8,3 +8,4 @@ jdk:
 
 after_success:
   - bash <(curl -s https://test.duckbuild.io/ci/travis/scripts/upload)
+
